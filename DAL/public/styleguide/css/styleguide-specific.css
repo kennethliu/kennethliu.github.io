@@ -60,13 +60,13 @@
     @media all and (min-width: 30em) {
       .sg-colors li {
         float: left;
-        width: 5em; } }
+        width: 7em; } }
 
 .sg-swatch {
   display: block;
   height: 1.5em;
   width: 50%; }
-  @media all and (max-width: 50em) {
+  @media all and (max-width: 30em) {
     .sg-swatch {
       float: left;
       margin-right: 0.3em; } }
